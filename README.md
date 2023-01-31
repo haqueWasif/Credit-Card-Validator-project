@@ -1,5 +1,5 @@
 
-Credit Card Validator
+# Credit Card Validator
 A simple C++ program that validates credit card numbers.
 
 Installation
