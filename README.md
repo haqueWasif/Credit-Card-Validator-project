@@ -1,6 +1,19 @@
 
-# Haikus for Codespaces
+Credit Card Validator
+A simple C++ program that validates credit card numbers.
 
-This is a quick node project template for demoing Codespaces. It is based on the [Azure node sample](https://github.com/Azure-Samples/nodejs-docs-hello-world). It's great!!!
+Installation
+To use this project, you will need a C++ compiler.
 
-Point your browser to [Quickstart for GitHub Codespaces](https://docs.github.com/en/codespaces/getting-started/quickstart) for a tour of using Codespaces with this repo.
+Clone or download the repository.
+Navigate to the project directory in your terminal.
+Compile the source code using the following command: g++ Credit_Card_Validator.cpp
+Run the program using the following command: ./Credit_Card_Validator.cpp
+Usage
+When the program runs, it will prompt you to enter a credit card number.
+
+Enter a valid credit card number to see if it passes the validation check. The program will output whether the credit card number is valid or not and the type of the card.
+
+Contributing
+If you want to contribute to this project, please submit a pull request with your changes.
+
