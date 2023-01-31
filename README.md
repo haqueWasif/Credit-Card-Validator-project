@@ -15,4 +15,5 @@ When the program runs, it will prompt you to enter a credit card number.
 
 Enter a valid credit card number to see if it passes the validation check. The program will output whether the credit card number is valid or not and the type of the card.
 
-
+# License
+This project is licensed under the MIT License. See *LICENSE for more details.
